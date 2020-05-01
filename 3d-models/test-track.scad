@@ -28,7 +28,7 @@ difference() {
     }
     
     // coil
-    translate([0,0,track_height/2 + 3.5]) {
+    translate([0,0,track_height/2 + 3.3]) {
         rotate([90,0,90]) {
             cylinder(h=coil_length+1,r=coil_outer_radius+0.5,center=true);
         }
