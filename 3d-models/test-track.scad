@@ -9,7 +9,7 @@ coil_length=18;
 cutout_width=11;
 
 sensor_length = 17.8 + 0.2;
-sensor_width = 5 + 0.1;
+sensor_width = 5 + 0.4;
 
 translate([0,0,track_height/2])
 difference() {
